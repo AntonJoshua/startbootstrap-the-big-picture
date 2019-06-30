@@ -4,9 +4,26 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+  background: url("../img/nature1.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
+
+body h1{
+  font-family: 'DM Serif Display', serif;
+  font-size: 48px;
+}
+
+.forp{
+  font-family: 'B612 Mono', monospace;
+  font-weight: 100;
+  font-size: 18px;
+  color: rgb(26, 26, 26);
+}
+
+.centerpiece{
+  margin: auto;
+}
+
