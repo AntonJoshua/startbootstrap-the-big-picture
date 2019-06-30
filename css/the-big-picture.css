@@ -11,19 +11,21 @@ body {
   -o-background-size: cover;
 }
 
-body h1{
+body h1 {
   font-family: 'DM Serif Display', serif;
   font-size: 48px;
 }
 
-.forp{
+.forp {
   font-family: 'B612 Mono', monospace;
   font-weight: 100;
   font-size: 18px;
   color: rgb(26, 26, 26);
 }
 
-.centerpiece{
-  margin: auto;
+#copyright {
+  font-family: 'B612 Mono', monospace;
+  font-weight: 60;
+  font-size: 11px;
+  color: rgba(255, 255, 255, 0.4);
 }
-
