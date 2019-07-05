@@ -4,12 +4,12 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background: url("") no-repeat center center fixed;
-  background: rgb(250, 241, 204);
+  background: url("../img/nature1.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  overflow: hidden;
 }
 
 body h1 {
@@ -30,3 +30,7 @@ body h1 {
   font-size: 11px;
   color: rgba(255, 255, 255, 0.4);
 }
+
+/* SKEWED BACKGROUND SETTING */
+
+

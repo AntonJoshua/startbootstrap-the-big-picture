@@ -1,5 +1,5 @@
 .Menu-list {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-family: 'DM Serif Display', serif;
   line-height: 1.2;
   text-align: center;
@@ -18,9 +18,8 @@
 
 }
 
-.menucontainer{
-  margin-top: 15%;
-  margin-left: -37%;
+.Menu{
+  margin-top: 30%;
 }
 
 .Menu-list-item {
@@ -39,7 +38,7 @@
   height: 4px;
   border-radius: 4px;
   margin-top: -2px;
-  background: rgb(34, 34, 34);
+  background: rgb(255, 255, 255);
   -webkit-transform: scale(0);
           transform: scale(0);
   -webkit-transition: -webkit-transform 0.8s cubic-bezier(0.16, 1.08, 0.38, 0.98);
@@ -53,7 +52,7 @@
   display: block;
   position: absolute;
   overflow: hidden;
-  color: rgb(29, 29, 29);
+  color: rgb(255, 255, 255);
   top: 0;
   height: 49%;
   -webkit-transition: all 0.8s cubic-bezier(0.16, 1.08, 0.38, 0.98);
@@ -93,3 +92,6 @@
           transform: scale(1);
 }
 /*# sourceMappingURL=menu.css.map */
+
+
+
